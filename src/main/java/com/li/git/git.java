@@ -9,5 +9,6 @@ public class git {
         System.out.println("couple");
         System.out.println("hot fix test");
         System.out.println("master old eight");
+        System.out.println("master old six");
     }
 }
