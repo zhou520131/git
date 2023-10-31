@@ -6,5 +6,8 @@ public class git {
         System.out.println("world");
         System.out.println("ho ho");
         System.out.println("master test");
+        System.out.println("couple");
+        System.out.println("hot fix test");
+
     }
 }
