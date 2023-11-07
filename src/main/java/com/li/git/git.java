@@ -10,6 +10,6 @@ public class git {
         System.out.println("hot fix test");
         System.out.println("master old eight");
         System.out.println("master old six");
-        System.out.println("push8080 old six");
+        System.out.println("push old six");
     }
 }
